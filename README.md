@@ -7,7 +7,7 @@
 
 🔭 I am currently open to new opportunities in engineering. If you are hiring or know someone who is don't hesitate to have them reach out!
 
-🗺️ I reside at Philadelphia, PA USA.
+🗺️ I reside at Williamstown, NJ USA.
 
 🌱 Check out my Portfolio to get an overview of my skillset.
 https://ascencio-ian-698.netlify.app/
