@@ -13,7 +13,7 @@
 
 https://ascencio-ian-698.netlify.app/
 
-:mechanical_arm:
+:mechanical_arm: GitHub Stats and Most Used Languages.
 
 <img align = 'left' width = '47%' src = 'https://github-readme-stats.vercel.app/api?username=ascencioian&show_icons=true&theme=prussian'/>
 
