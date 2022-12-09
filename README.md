@@ -2,8 +2,8 @@
 
 😄 I love meeting new people! Please reach out to me to collaborate or just chat about all things engineering.
 
-📫 Best way to reach me: message me on LinkedIn or twitter !
-   https://www.linkedin.com/in/ian-ascencio/
+📫 Best way to reach me: message me on LinkedIn or twitter.
+   https://www.linkedin.com/in/ian-ascencio
 
 🔭 I am currently open to new opportunities in engineering. If you are hiring or know someone who is don't hesitate to have them reach out!
 
